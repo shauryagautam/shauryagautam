@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shauryagautam
+- 👋 Hi, I’m @ShauryaKumar
 - 👀 I’m interested in Web dev& Product management. 
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on MERN.

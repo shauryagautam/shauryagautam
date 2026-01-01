@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Shaurya </h1>
 
-- 🔭 I’m currently working on **Azure DevOps**
-- 🌱 I’m currently learning **Terraform**
+- 🔭 I’m currently working on **Azure DevOps & Databricks**
+- 🌱 I’m currently learning **iOS Dev**
 - 👯 I’m looking to collaborate on **GCP**
 - 🤝 I’m looking for help with **Product Development**
 - 💬 Ask me about **Cloud Computing, Big Data, Data Analytics**

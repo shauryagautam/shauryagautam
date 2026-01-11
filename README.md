@@ -10,7 +10,7 @@
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/shaurya1309)
 [![Blog](https://img.shields.io/badge/Blog-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaurya13/)
 
 </div>
 
@@ -96,24 +96,8 @@ const shaurya = {
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shauryagautam&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shauryagautam&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=8" />
-</p>
-<p align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=shauryagautam&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=FFFFFF" />
-</p>
-<p align="center">
   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=shauryagautam&theme=github-compact&hide_border=true&area=true&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF&title_color=F85D7F" />
 </p>
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shauryagautam&theme=radical&no-frame=true&no-bg=false&column=7&margin-w=10&margin-h=10" />
-</p>
-
----
 
 ## 💡 What I Bring to the Table
 
@@ -135,18 +119,6 @@ const shaurya = {
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true"/>
 </div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=shauryagautam&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" alt="Wakatime Stats"/>
-</div>
-
----
-
-<div align="center">
 
 ### 🤝 Let's Collaborate!
 

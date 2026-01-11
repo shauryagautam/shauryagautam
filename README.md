@@ -1,86 +1,174 @@
-# Hi 👋, I'm Shaurya
+<div align="center">
+
+# 👋 Hi, I'm Shaurya
 
 ### Product Analyst | Strategic Thinker | Cloud & DevOps Engineer
 
-I bridge the gap between data-driven insights and strategic product decisions, leveraging cloud infrastructure and analytics to drive business outcomes.
-
-## 🎯 What I Do
-
-- 🔭 Currently working with **Azure DevOps & Databricks** for data analytics and pipeline orchestration
-- 📊 Specializing in **Product Analytics** and **Strategic Planning** using data-driven methodologies
-- 🌱 Expanding my skill set with **iOS Development**
-- 🤝 Open to collaboration on **GCP projects** and **Product Development initiatives**
-- 💡 Passionate about transforming data into actionable product strategies
-
-## 💬 Let's Talk About
-
-- **Product Analytics & Strategy** - Metrics, KPIs, user behavior analysis, and product roadmapping
-- **Cloud Computing** - AWS, Azure, GCP architecture and optimization
-- **Big Data & Analytics** - Data pipelines, processing, and visualization
-- **DevOps & Infrastructure** - CI/CD, containerization, and automation
-- **Linux Systems** - Administration, scripting, and optimization
-
-## 📝 Recent Thoughts
-
-Check out my blog for insights on product analytics, cloud architecture, and DevOps best practices → [Your Blog Link]
-
-## 🤝 Let's Connect
-
-<p align="left">
-<a href="https://twitter.com/shaurya1309" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shaurya1309" height="30" width="40" /></a>
-</p>
-
-## 💻 Tech Stack
-
-**Languages**  
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-**Cloud Platforms**  
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) 
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-
-**Data & Analytics**  
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-**Databases**  
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**DevOps & Tools**  
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) 
-![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-**Frameworks**  
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-
-## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shauryagautam&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <i>Bridging data-driven insights with strategic product decisions</i>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shauryagautam&theme=radical&hide_border=false" alt="GitHub Streak" />
-</p>
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/shaurya1309)
+[![Blog](https://img.shields.io/badge/Blog-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shauryagautam&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</p>
-
-## ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
 ---
 
-<p align="center">
-  <i>⚡ "Data tells you what happened. Analytics tells you why. Strategy tells you what to do next."</i>
-</p>
+## 🎯 About Me
+
+```typescript
+const shaurya = {
+    role: "Product Analyst & DevOps Engineer",
+    currentFocus: ["Azure DevOps", "Databricks", "Product Analytics"],
+    learning: ["iOS Development", "Advanced Product Strategy"],
+    collaborateOn: ["GCP Projects", "Product Development"],
+    expertise: ["Cloud Computing", "Big Data", "Data Analytics", "DevOps"],
+    askMeAbout: ["Product Metrics", "Cloud Architecture", "Pipeline Optimization"]
+};
+```
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔭 Currently Working On
+- **Azure DevOps & Databricks** for analytics pipelines
+- **Product Analytics** dashboards and KPI tracking
+- **Strategic Planning** initiatives using data insights
+
+</td>
+<td width="50%">
+
+### 🌱 Learning & Growth
+- **iOS Development** for mobile product expansion
+- **Advanced Product Strategy** frameworks
+- **GCP** architecture and best practices
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💻 Tech Stack
+
+<div align="center">
+
+### Languages
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Shell Script](https://img.shields.io/badge/Shell_Script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+### DevOps & Orchestration
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### Data & Analytics
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Frameworks & Tools
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shauryagautam&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shauryagautam&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shauryagautam&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=FFFFFF"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shauryagautam&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF"/>
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shauryagautam&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15"/>
+</div>
+
+---
+
+## 💡 What I Bring to the Table
+
+<div align="center">
+
+| Product Analytics | Strategic Thinking | Technical Excellence |
+|:-----------------:|:------------------:|:-------------------:|
+| KPI Definition & Tracking | Product Roadmapping | Cloud Architecture |
+| User Behavior Analysis | Data-Driven Decision Making | CI/CD Pipeline Design |
+| A/B Testing & Experimentation | Market Analysis | Infrastructure Automation |
+| Metrics Dashboards | Cross-Functional Collaboration | Performance Optimization |
+
+</div>
+
+---
+
+## ✍️ Dev Wisdom
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true"/>
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=shauryagautam&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" alt="Wakatime Stats"/>
+</div>
+
+---
+
+<div align="center">
+
+### 🤝 Let's Collaborate!
+
+**Open for:**
+- Product Analytics Projects
+- GCP Infrastructure Design
+- DevOps Automation Solutions
+- Strategic Product Initiatives
+
+### 📫 Reach Out
+
+💼 Looking for collaboration on innovative product development  
+📊 Happy to discuss product metrics, analytics, and strategy  
+☁️ Always excited about cloud architecture challenges  
+
+---
+
+<img src="https://komarev.com/ghpvc/?username=shauryagautam&label=Profile%20Views&color=F85D7F&style=for-the-badge" alt="Profile Views" />
+
+<sub>⚡ *"In God we trust, all others must bring data."* — W. Edwards Deming</sub>
+
+</div>
